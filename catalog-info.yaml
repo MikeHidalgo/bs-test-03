@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "bs-test-03"
+  description: "testy"
+  annotations:
+    github.com/project-slug: MikeHidalgo/bs-test-03
+    backstage.io/techdocs-ref: url:https://github.com/MikeHidalgo/bs-test-03
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "mikehidalgo"

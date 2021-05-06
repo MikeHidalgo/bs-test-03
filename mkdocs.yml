@@ -1,0 +1,8 @@
+site_name: "bs-test-03"
+site_description: "testy"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
